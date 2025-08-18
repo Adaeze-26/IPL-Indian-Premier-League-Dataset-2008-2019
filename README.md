@@ -1,7 +1,7 @@
 # **IPL-Indian-Premier-League-Dataset-2008-2019**
 ## Date: 16th August 2025
 ## **Summary**
-The dataset covers all matches played in the Indian Premier League (IPL) from 2008 to 2019. It provides detailed information on match results, team performances, player statistics, and ball-by-ball deliveries. The purpose is to analyze trends, player contributions, and team outcomes across 12 seasons of the IPL.
+The dataset covers all cricket matches played in the Indian Premier League (IPL) from 2008 to 2019. It provides detailed information on match results, team performances, player statistics, and ball-by-ball deliveries. The purpose is to analyze trends, player contributions, and team outcomes across 12 seasons of the IPL.
 ## **Objectives**
 1.	To understand match outcomes and team performance patterns.
 2.	To evaluate player statistics such as batting average, strike rate, and wicket counts.
